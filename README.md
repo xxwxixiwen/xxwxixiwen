@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/xxwxixiwen?tab=repositories">作品</a>
+  <a href="https://github.com/xxwxixiwen?tab=repositories">◼ 作品</a>
   &nbsp;·&nbsp;
-  <a href="https://xxwxixiwen.github.io/personal-website/">个人网站</a>
+  <a href="https://xxwxixiwen.github.io/personal-website/">◼ 个人网站</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/xxwxixiwen">GitHub</a>
+  <a href="https://github.com/xxwxixiwen">◼ GitHub</a>
 </p>
 
 ## 👋 关于我
@@ -56,10 +56,10 @@
 ## 📊 GitHub 数据
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xxwxixiwen&show_icons=true&hide_border=true&theme=transparent&locale=cn" alt="西西文的 GitHub 数据">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxwxixiwen&layout=compact&hide_border=true&theme=transparent&locale=cn" alt="常用语言">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xxwxixiwen&show_icons=true&hide_border=true&locale=cn&title_color=b84f28&text_color=292929&icon_color=b84f28&bg_color=f7f5f0" alt="西西文的 GitHub 数据">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxwxixiwen&layout=compact&hide_border=true&locale=cn&title_color=b84f28&text_color=292929&bg_color=f7f5f0" alt="常用语言">
 </p>
 
 <p align="center">
-  <sub>把灵感做成看得见、用得上的作品。</sub>
+  <sub>把视觉灵感，做成可以打开和体验的网页。</sub>
 </p>
