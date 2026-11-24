@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/xxwxixiwen?tab=repositories">◼ 作品</a>
   &nbsp;·&nbsp;
-  <a href="https://xxwxixiwen.github.io/personal-website/">◼ 个人网站</a>
+  <a href="https://xixiwen-ai-portfolio-release.vercel.app/">◼ 个人网站</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/xxwxixiwen">◼ GitHub</a>
 </p>
@@ -23,23 +23,25 @@
 
 ## ✨ 精选作品
 
-### [美图秀秀 · 暗夜影像实验室](https://github.com/xxwxixiwen/meitu-after-dark)
+### [念动 · AI 短片创作工作台](https://xixiwen-ai-portfolio-release.vercel.app/project/niandong)
 
-一个非官方概念宣传网站。通过滚动 3D 空间、WebGL 影像、动态标题和本地图片实验室，探索影像产品的沉浸式网页表达。
+面向个人与小团队的 AI 短片创作工作台，将创意、剧本、角色场景、分镜、参考图、视频与后期合成组织为可审核、可修改的创作流程。
 
-`TypeScript` · `React` · `Vite` · `WebGL` · `CSS 3D` · `GitHub Pages`
+`AI 视频` · `多模型编排` · `人工审核` · `版本管理`
 
-- 本地完成滤镜、亮度、对比度和饱和度处理
-- 支持原图对比、贴纸操作与 PNG 导出
-- 包含键盘操作、响应式布局和减少动态效果支持
+- 每阶段设置审核确认节点，区分“生成结束”与“审核通过”
+- 支持版本选择、单角色及单镜头重做，上游调整后重新审核
+- 调用前提示额度，保留可用素材，减少返工与调用成本
 
-### [个人网站](https://github.com/xxwxixiwen/personal-website)
+🎬 [查看项目介绍](https://xixiwen-ai-portfolio-release.vercel.app/project/niandong)
 
-使用原生 HTML、CSS 和 JavaScript 搭建的现代简约个人网站，包含自我介绍、技能、作品集和联系方式等板块。
+### [个人网站](https://xixiwen-ai-portfolio-release.vercel.app/)
 
-`HTML` · `CSS` · `JavaScript` · `GitHub Pages`
+西西文的 AI 产品作品集，展示个人资料、工作经历、项目实践与联系方式，结合开场视频、人物分层动画和互动作品画廊。
 
-🌐 [在线访问](https://xxwxixiwen.github.io/personal-website/)
+`Next.js` · `React` · `GSAP` · `WebGL`
+
+🌐 [在线访问](https://xixiwen-ai-portfolio-release.vercel.app/)
 
 ## 🧰 技术与工具
 
@@ -63,3 +65,4 @@
 <p align="center">
   <sub>把视觉灵感，做成可以打开和体验的网页。</sub>
 </p>
+
